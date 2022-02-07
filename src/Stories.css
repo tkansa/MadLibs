@@ -1,0 +1,5 @@
+.Stories .story-container {
+    display: flex;
+    flex-direction: column;
+
+}
